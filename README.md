@@ -1,5 +1,6 @@
-#TRegex
-##A Regex Crossword Solver
+# TRegex
+## A Regex Crossword Solver
+
 
 What's more fun than doing the puzzles on www.regexcrossword.com? Writing a solver that scrapes the website for the clues and does it for you! All you have to do, is input the URL. 
 
