@@ -1,0 +1,8 @@
+# TO-DO
+
+1. Raw string transformation function
+2. Fix the partial match parser in JS
+3. Write scraper
+4. Hexagonal crosswords (three coordinates)
+5. Write formal tests
+6. Write it recursively
