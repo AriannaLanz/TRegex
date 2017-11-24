@@ -33,6 +33,7 @@
     "incr-regex-package": "^1.0.1",
     "jssoup": "0.0.6",
     "morgan": "^1.8.1",
+    "nightmare": "^2.10.0",
     "node-horseman": "^3.3.0",
     "passport": "^0.3.2",
     "passport-google-oauth": "^1.0.0",
